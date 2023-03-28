@@ -9,9 +9,9 @@ Projects I have created using Python
 ## 2. Rock, Paper, Scissors
 :white_small_square: The traditional Rock, Paper, Scissors game, but you are playing against the computer.
 
-:white_small_square: You first input your choice then the computer will generate its choice using random. 
+:white_small_square: You first input your choice of Rock, Paper, or Scissors, then the computer will generate its choice using random. 
 
 :white_small_square: If statements will compare the two choices to determine the winner. 
 
-:white_small_square: Using a while loop you can continue to play and the score variables will count your wins compared to the computer wins. 
+:white_small_square: Using a while loop you can make your choice to continue to play and the score variables will count your wins compared to the computer wins. 
 
