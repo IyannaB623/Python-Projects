@@ -38,3 +38,5 @@ In this repository you can find python files of projects I have created solely u
 :white_small_square: If Option 2: You will recieve a password including your custom input that satisfies all of the strong password requirements as mentioned above.
 
 :white_small_square: In option 2, you can also recieve you custom input back without any changes if it already satisfies all of the requirements as mentioned above. 
+
+:white_small_square: You can continue to generate more passwords by inputting 'Y' for yes, when asked, to restart function. 
