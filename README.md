@@ -19,7 +19,7 @@ In this repository you can find python files of projects I have created solely u
 
 :white_small_square: This program determines if you password is strong or not.
 
-:white_small_square: The function will take in your password as input and check for lowercase letter, uppercase letters, numbers, special characters, and length.
+:white_small_square: The function will take in your password as input and check for lowercase letters, uppercase letters, numbers, special characters, and length.
 
 :white_small_square: If all parameters are met you will receive a score of 5/5 making for a Strong password.
 
@@ -37,6 +37,6 @@ In this repository you can find python files of projects I have created solely u
 
 :white_small_square: If Option 2: You will recieve a password including your custom input that satisfies all of the strong password requirements as mentioned above.
 
-:white_small_square: In option 2, you can also recieve you custom input back without any changes if it already satisfies all of the requirements as mentioned above. 
+:white_small_square: Also in Option 2, you can also recieve you custom input back without any changes if it already satisfies all of the requirements as mentioned above. 
 
 :white_small_square: You can continue to generate more passwords by inputting 'Y' for yes, when asked, to restart function. 
