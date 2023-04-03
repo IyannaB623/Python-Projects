@@ -1,0 +1,38 @@
+print('Welcome! Answer the following questioins and we will produce your madlib!')
+
+
+fooditem = input('Enter a Food Item:')
+number1 = input('Enter a number!:')
+measurement = input('Enter a measurement:')
+adjective1 = input('Enter an adjective:')
+specialingredient1 = input('Enter a food item:')
+verbing = input('Enter a verb ending in -ing:')
+adjective2 = input('Enter another adjective please:')
+adverb = input('Enter an adverb:')
+adjective3 = input('Enter an adjective:')
+noun1 = input('Enter a noun:')
+specialingredient2 = input('Enter a food item:')
+adjective3 = input('Enter another adjective:')
+verb = input('Enter a verb please:')
+number2 = input('Enter a number:')
+print('Almost done!')
+adjectiveornoun = input('Enter an adjective or noun:')
+verb2 = input('Enter another verb:')
+adjective = input('Enter an adjective:')
+noun2 = input('Enter a noun:')
+adjective4 = input('Enter an adjective:')
+
+print("Today we are making",fooditem,"!")
+
+print('First add',number1,measurement,'of',specialingredient1,'.')
+print('Next start by',verbing,'the',specialingredient1,'in a bowl. It should look', adjective1, 'when you are done. Thats how you will know to move on.')
+print('Then',adverb,verb,'into a bowl. Then add',adjective, noun1, 'into inside the bowl')
+print('Next add your',specialingredient2, 'into a pot. Then slowly add your ingredients from the bowl.')
+print('Stir until its a',adjective3, 'color. Next',verb,'the ingredients to make sure it is properly acclimated.')
+print('Next put',number2,'scoops into a',adjectiveornoun,'sheet.')
+print('Then',verb2,'the rest of the ingredients for prep.')
+print('Then place your',specialingredient2,'mix onto your plate.')
+print('Next place your',specialingredient1,'mix inside your',adjective,noun2,'onto your plate.')
+print('Thats how you make',adjective,fooditem,'!')
+
+
