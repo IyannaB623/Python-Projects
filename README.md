@@ -55,7 +55,7 @@ In this repository you can find python files of projects I have created solely u
 
 :white_small_square: Simple email slicer that takes your email address as input then prints your username and domain separately.
 
-## 6. Whats the word?
+## 7. Whats the word?
 
 :white_small_square: Try to guess the word in 10 attemps or less.
 
