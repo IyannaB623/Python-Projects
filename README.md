@@ -40,3 +40,13 @@ In this repository you can find python files of projects I have created solely u
 :white_small_square: Also in Option 2, you can also recieve you custom input back without any changes if it already satisfies all of the requirements as mentioned above. 
 
 :white_small_square: You can continue to generate more passwords by inputting 'Y' for yes, when asked, to restart function. 
+
+## 5. Recipe Madlibs
+
+:white_small_square: This project takes in user input to producd a madlib with the theme of recipes.
+
+:white_small_square: The user will insert any noun, adjectives, verbs, and more that come to mind without seeing the madlib script.
+
+:white_small_square: Then the inputs are stored inside variables to be printed into the script. 
+
+:white_small_square: This makes for a rather entertaining recipe in the end. 
