@@ -49,4 +49,8 @@ In this repository you can find python files of projects I have created solely u
 
 :white_small_square: Then the inputs are stored inside variables to be printed into the script. 
 
-:white_small_square: This makes for a rather entertaining recipe in the end. 
+:white_small_square: This makes for a rather entertaining recipe in the end.
+
+## 5. Recipe Madlibs
+
+:white_small_square: Simple email slicer that takes your email address as input then prints your username and domain separately.
