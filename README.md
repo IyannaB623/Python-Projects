@@ -51,6 +51,6 @@ In this repository you can find python files of projects I have created solely u
 
 :white_small_square: This makes for a rather entertaining recipe in the end.
 
-## 5. Recipe Madlibs
+## 6. Email Slicer
 
 :white_small_square: Simple email slicer that takes your email address as input then prints your username and domain separately.
