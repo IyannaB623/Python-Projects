@@ -43,7 +43,7 @@ In this repository you can find python files of projects I have created solely u
 
 ## 5. Recipe Madlibs
 
-:white_small_square: This project takes in user input to producd a madlib with the theme of recipes.
+:white_small_square: This project takes in user input to produce a madlib with the theme of recipes.
 
 :white_small_square: The user will insert any noun, adjectives, verbs, and more that come to mind without seeing the madlib script.
 
